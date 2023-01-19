@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishi Ganesh
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript ES6
 - 💞️ I’m looking to collaborate on interesting and innovative projects
 - 📫 Reach out to me @ rishi.runtimeerror@gmail.com
 
