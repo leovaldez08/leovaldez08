@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I’m Rishi Ganesh!<br>🔭 I'm currently working as a Software Engineer Intern [@Economize](https://www.economize.cloud/).<br>💻 I’m a tech enthusiast who loves to learn and explore new technologies. I’m also fascinated by the endless possibilities of AI.<br>🌱 My current focus is on mastering the Back-end technologies.<br>🌟 I believe in the power of technology to solve real-world problems and I’m eager to be a part of it.<br>📬 Feel free to reach out to me at mr.rishiganesh@gmail.com. Let’s chat about technology or anything that piques your interest!
+👋 Hey there, I’m [Rishi Ganesh](https://www.linkedin.com/in/rishi-ganesh/)!<br>🔭 I'm currently working as a Software Engineer Intern [@Economize](https://www.economize.cloud/).<br>💻 I’m a tech enthusiast who loves to learn and explore new technologies. I’m also fascinated by the endless possibilities of AI.<br>🌱 My current focus is on mastering the Back-end technologies.<br>🌟 I believe in the power of technology to solve real-world problems and I’m eager to be a part of it.<br>📬 Feel free to reach out to me at mr.rishiganesh@gmail.com. Let’s chat about technology or anything that piques your interest!
 
 
 ## 🌐 Socials:
