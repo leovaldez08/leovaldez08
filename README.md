@@ -19,8 +19,6 @@
 
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
-[![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev/)
-[![Gatsby](https://skillicons.dev/icons?i=gatsby)](https://www.gatsbyjs.com/)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![Nuxt.js](https://skillicons.dev/icons?i=nuxtjs)](https://nuxt.com/)
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vite.dev/)
@@ -34,27 +32,24 @@
 
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-[![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh/)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
-[![Deno](https://skillicons.dev/icons?i=deno)](https://deno.com/)
 [![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.io/)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 
 ### **Databases**
 
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 
 ### **DevOps & Cloud**
 
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 [![Google Cloud](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
-[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.io/)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 [![Netlify](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
 [![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
@@ -63,7 +58,6 @@
 
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Debian](https://skillicons.dev/icons?i=debian)](https://www.debian.org/)
-[![Kali Linux](https://skillicons.dev/icons?i=kali)](https://www.kali.org/)
 [![Red Hat](https://skillicons.dev/icons?i=redhat)](https://www.redhat.com/en)
 [![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/windows)
 
@@ -73,7 +67,6 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org/)
 [![Sublime Text](https://skillicons.dev/icons?i=sublime)](https://www.sublimetext.com/)
 [![npm](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
 [![Yarn](https://skillicons.dev/icons?i=yarn)](https://yarnpkg.com/)
