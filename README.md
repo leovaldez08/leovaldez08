@@ -1,20 +1,104 @@
 # 💫 About Me:
-👋 Hey there, I’m [Rishi Ganesh](https://www.linkedin.com/in/rishi-ganesh/)!<br>🔭 I'm currently working as a Software Engineer Intern [@Economize](https://www.economize.cloud/).<br>💻 I’m a tech enthusiast who loves to learn and explore new technologies. I’m also fascinated by the endless possibilities of AI.<br>🌱 My current focus is on mastering the Back-end technologies.<br>🌟 I believe in the power of technology to solve real-world problems and I’m eager to be a part of it.<br>📬 Feel free to reach out to me at mr.rishiganesh@gmail.com. Let’s chat about technology or anything that piques your interest!
 
+👋 Hey there, I’m [Rishi Ganesh](https://www.linkedin.com/in/rishi-ganesh/)!<br>🔭 Previously worked as a Software Engineer Intern [@Economize](https://www.economize.cloud/).<br>💻 I’m a tech enthusiast who loves to learn and explore new technologies. (A wannabe polymath!) <br>🌱 My current focus is on mastering low-level systems and embedded systems programming.<br>🌟 I believe in the power of technology to solve real-world problems and I’m eager to be a part of it.<br>📬 Feel free to reach out to me at mr.rishiganesh@gmail.com. Let’s chat about technology or anything that piques your interest!
+<br/><br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leo_valdez_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi-ganesh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Rishi_Ganesh_I) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Rishi_Ganesh_I) 
+# 💻 Tools and Technologies:
 
-# 💻 Languages and Tools:
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p> <br/>
+### **Programming Languages**
+
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![C](https://skillicons.dev/icons?i=c)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
+[![Go](https://skillicons.dev/icons?i=go)](https://golang.org/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+
+### **Frontend Development**
+
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev/)
+[![Gatsby](https://skillicons.dev/icons?i=gatsby)](https://www.gatsbyjs.com/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![Nuxt.js](https://skillicons.dev/icons?i=nuxtjs)](https://nuxt.com/)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vite.dev/)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![Three.js](https://skillicons.dev/icons?i=threejs)](https://threejs.org/)
+[![HTMX](https://skillicons.dev/icons?i=htmx)](https://htmx.org/)
+
+### **Backend Development**
+
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![Bun](https://skillicons.dev/icons?i=bun)](https://bun.sh/)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/)
+[![Deno](https://skillicons.dev/icons?i=deno)](https://deno.com/)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
+
+### **Databases**
+
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
+
+### **DevOps & Cloud**
+
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![Google Cloud](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.io/)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+[![Netlify](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+
+### **Operating Systems**
+
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![Debian](https://skillicons.dev/icons?i=debian)](https://www.debian.org/)
+[![Kali Linux](https://skillicons.dev/icons?i=kali)](https://www.kali.org/)
+[![Red Hat](https://skillicons.dev/icons?i=redhat)](https://www.redhat.com/en)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/windows)
+
+### **Version Control & Tools**
+
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Vim](https://skillicons.dev/icons?i=vim)](https://www.vim.org/)
+[![Sublime Text](https://skillicons.dev/icons?i=sublime)](https://www.sublimetext.com/)
+[![npm](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
+[![Yarn](https://skillicons.dev/icons?i=yarn)](https://yarnpkg.com/)
+[![pnpm](https://skillicons.dev/icons?i=pnpm)](https://pnpm.io/)
+
+### **Embedded Systems & IoT**
+
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+[![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org/)
+[![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org/)
+[![Processing](https://skillicons.dev/icons?i=processing)](https://processing.org/)
+
+### **Design & Prototyping**
+
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/)
+[![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://obsidian.md/)
+
+<br/>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=leovaldez08&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=leovaldez08&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leovaldez08&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![leovaldez08's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leovaldez08&theme=dark&hide_border=true)
 
----
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rishiganesh) 
+# 🌐 Socials:
 
-
+<p align="left">
+<a href="https://linkedin.com/in/rishi-ganesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi-ganesh" height="30" width="40" /></a> <a href="https://twitter.com/rishi_ganesh_i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishi_ganesh_i" height="30" width="40" /></a>
